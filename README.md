@@ -9,11 +9,11 @@
     <a href="https://github.com/rashidlaasri/twlog/pulls">
       <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/rashidlaasri/twlog?style=flat&color=336791" />
     </a>
-    <a href="https://www.npmjs.com/package/rashidlaasri/twlog">
-      <img alt="npm weekly downloads" src="https://img.shields.io/npm/dw/rashidlaasri/twlog?style=flat&color=336791" />
+    <a href="https://www.npmjs.com/package/@rashidlaasri/twlog">
+      <img alt="npm weekly downloads" src="https://img.shields.io/npm/dw/@rashidlaasri/twlog?style=flat&color=336791" />
     </a>
-    <a href="https://www.npmjs.com/package/rashidlaasri/twlog">
-      <img alt="npm total downloads" src="https://img.shields.io/npm/dt/rashidlaasri/twlog?color=336791&label=Total%20downloads" />
+    <a href="https://www.npmjs.com/package/@rashidlaasri/twlog">
+      <img alt="npm total downloads" src="https://img.shields.io/npm/dt/@rashidlaasri/twlog?color=336791&label=Total%20downloads" />
     </a>
     <a href="https://github.com/rashidlaasri/twlog/releases">
       <img alt="GitHub release" src="https://img.shields.io/github/release/rashidlaasri/twlog.svg?style=flat&color=336791" />

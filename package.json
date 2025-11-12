@@ -1,7 +1,8 @@
 {
   "name": "@rashidlaasri/twlog",
   "author": "rashidlaasri",
-  "version": "0.0.1",
+  "version": "0.0.2",
+  "license": "MIT",
   "private": false,
   "description": "Beautiful browser console.log with Tailwind CSS.",
   "type": "module",
@@ -34,5 +35,8 @@
     "prettier": "3.6.2",
     "ts-jest": "29.4.1",
     "typescript": "5.9.2"
-  }
+  },
+  "files": [
+    "dist/**/*"
+  ]
 }
